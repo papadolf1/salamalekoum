@@ -1,1 +1,4 @@
 Hello git
+Salut git
+Ciao git
+Tschuess git
